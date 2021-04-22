@@ -1,0 +1,47 @@
+BAYESIAN OPTIMIZATION ALGORITHM
+NAME OF EXPERIMENT: TRAP5_10_2
+TOTAL OF EXPERIMENTS: 1
+=================================================
+PARAMETERS
+N TOURNAMENT: 1
+K TOURNAMENT: 5
+SIZE BLOCK: 10
+QT OF BBs: 2
+MAX GENERATIONS: 10
+SIZE OF POPULATION: 1000
+FIT FUNCTION: trap5
+OPTIM VALUE: 2
+=================================================
+RESULTS
+hc - k2
+BEST FIT: 2
+STOP: 10
+--------------------------------------------
+hc - aic
+BEST FIT: 2
+STOP: 10
+--------------------------------------------
+hc - bic
+BEST FIT: 2
+STOP: 10
+--------------------------------------------
+hc - bds
+BEST FIT: 2
+STOP: 10
+--------------------------------------------
+tabu - k2
+BEST FIT: 2
+STOP: 10
+--------------------------------------------
+tabu - aic
+BEST FIT: 2
+STOP: 10
+--------------------------------------------
+tabu - bic
+BEST FIT: 2
+STOP: 10
+--------------------------------------------
+tabu - bds
+BEST FIT: 2
+STOP: 10
+--------------------------------------------
